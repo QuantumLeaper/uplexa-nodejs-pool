@@ -14,7 +14,7 @@
         "bignum": "*",
         "cli-color": "*",
         "cryptoforknote-util": "git://github.com/MoneroOcean/node-cryptoforknote-util.git",
-        "cryptonight-hashing": "git://github.com/MoneroOcean/node-cryptonight-hashing.git",
+        "cryptonight-hashing": "git://github.com/uPlexa/node-cryptonight-hashing.git",
         "multi-hashing": "git://github.com/muscleman/node-multi-hashing.git#ipbc",
         "dateformat": "*",
         "mailgun.js": "*",
